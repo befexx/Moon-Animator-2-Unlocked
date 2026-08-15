@@ -13,4 +13,6 @@ Fixed version of **Moon Animator 2** for Roblox Studio with the version check an
 3. Place the downloaded file into this folder.
 4. Restart Roblox Studio.
 
+If this plugin helped you, please leave a ⭐ to support the project!
+
 *(Credits to **xsixx** for the original plugin)*
